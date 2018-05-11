@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PolygonGooglemap</string>
+    <string name="not_sufficient_permissions">Not Sufficient permission</string>
+    <string name="permissionss">Permisiions</string>
+</resources>
